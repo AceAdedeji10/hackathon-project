@@ -72,7 +72,7 @@ A bar chart is created to compare order rates between the Control and Test group
 The y-axis limit is set to 1 to standardize visualization.
 Grid lines are included for better readability.
 
-Final Outcome
+Final Outcome -
 The results help determine whether larger food images impact order rates.
 The Z-test provides statistical validation of findings.
 Visualization aids in understanding data patterns and differences across groups.
